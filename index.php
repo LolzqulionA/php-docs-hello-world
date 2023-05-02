@@ -1,3 +1,3 @@
 <?php
 
-echo "Hello FYP 2";
+echo "Hello FYP 3";
